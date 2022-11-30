@@ -1,5 +1,7 @@
 # COCKTAILSAPI_REACT
 
+To see the project click below:
+
 <a href="https://bryanleg-cocktailapi-react.netlify.app/"> **DEMO** </a>
 
 
