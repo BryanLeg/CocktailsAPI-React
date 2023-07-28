@@ -5,6 +5,7 @@ import About from './Pages/About'
 import Error from "./Pages/Error";
 import Infos from "./Pages/Infos";
 
+
 function App() {
   return (
     <Router>
