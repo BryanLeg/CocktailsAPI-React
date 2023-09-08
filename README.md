@@ -2,7 +2,6 @@
 
 To see the project click below:
 
-
 <a href="https://bryanleg-cocktailapi-react.netlify.app/"> **DEMO** </a>
 
 # Getting Started with Create React App
